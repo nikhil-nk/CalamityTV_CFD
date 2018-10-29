@@ -10,4 +10,4 @@ We plan on creating our own API, for scraping data from another source (GDACS, U
 
 Here's a video explaining the functionality of the app:
 
-[![Calamity TV](https://www.youtube.com/watch?v=x1T_uljqCUk&t=3s)
+[Calamity TV](https://www.youtube.com/watch?v=x1T_uljqCUk&t=3s)
